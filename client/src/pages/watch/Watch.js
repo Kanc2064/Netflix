@@ -11,10 +11,10 @@ export default function Watch() {
   return (
     <div className="watch">
       <div className="back">
-          <ArrowBackOutlined/>
-          Home
+        <ArrowBackOutlined />
+        Home
       </div>
-      <video className="video" autoPlay progress controls src="https://www.vecteezy.com/free-videos/nature"/>
-      </div>
+      <video className="video" autoPlay progress controls src="https://www.vecteezy.com/free-videos/nature" />
+    </div>
   )
 }
